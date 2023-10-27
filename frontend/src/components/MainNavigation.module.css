@@ -20,3 +20,7 @@
 .list a.active {
   color: var(--color-primary-800);
 }
+
+.span{
+  color: var(--color-primary-400);
+}
