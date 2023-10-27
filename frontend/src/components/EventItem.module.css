@@ -29,3 +29,8 @@
   border: none;
   color: var(--color-primary-800);
 }
+
+.error{
+  color: red;
+  font: 1.5em sans-serif;
+}
